@@ -48,3 +48,7 @@ poetry run python consumer.py
 ## Requirements
 
 See `pyproject.toml` for project dependencies.
+
+## Notes
+
+This project was migrated from Poetry to `uv` using [migrate-to-uv](https://github.com/osprey-oss/migrate-to-uv).
